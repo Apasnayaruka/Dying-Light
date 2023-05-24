@@ -1,1 +1,6 @@
-
+body {
+		background: #000 url(https://wallup.net/wp-content/uploads/2019/09/07/617157-dying-light-horror-survival-zombie-apocalyptic-dark-action-1dlight-rpg-poster.jpg); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+	}
