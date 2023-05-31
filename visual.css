@@ -18,3 +18,10 @@ scrin1{
 	left: 968px;
 	top: 1165px;
 }
+logo{
+	position: absolute;
+	width: 627px;
+	height: 216px;
+	left: 0px;
+	top: 2px;
+}
