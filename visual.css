@@ -89,9 +89,7 @@ button {
 /******* Common Element CSS End *********/
 
 /* -------- title style ------- */
-.line-title {
-  position: relative;
-  width: 400px;
+
 }
 .line-title::before,
 .line-title::after {
