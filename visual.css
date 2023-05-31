@@ -4,10 +4,17 @@ body {
 		background-attachment: fixed; /* Фон страницы фиксируется */
 		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
 }
-.Button1{
+Button1{
 	position: absolute;
 	width: 353px;
 	height: 216px;
 	left: 627px;
 	top: 0px;
+}
+scrin1{
+	position: absolute;
+	width: 625px;
+	height: 342px;
+	left: 968px;
+	top: 1165px;
 }
